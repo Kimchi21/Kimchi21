@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there 👋, I'm Kim Marcial Vallesteros </h1>
-<img align="center" alt="Coding" width="800" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="Coding" width="600" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me:
 🔭 I’m currently working on Data Science and Data Analysis Projects.<br>💡 I'm interested in **Automation**, **Machine Vision**, **Machine Learning** and **Deep Learning**.<br>💬 Talk to me about **Games**, **Computer Tech Stuff**, **Anime**, and maybe some other stuff. <br>⚡ Fun fact, I love bread and cats.
